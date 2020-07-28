@@ -1,0 +1,17 @@
+Number of tasks percentage: admin: 2
+Number of tasks percentage: kernard: 1
+Number of tasks percentage: thomas: 1
+Number of complete tasks percentage: admin: 1%
+Number of complete tasks percentage: kernard: 0%
+Number of complete tasks percentage: thomas: 0%
+Number of incomplete tasks percentage: admin: 0%
+Number of incomplete tasks percentage: kernard: 0%
+Number of incomplete tasks percentage: thomas: 0%
+Number of overdue and incomplete tasks percentage: thomas: 0%
+Number of overdue and incomplete tasks percentage: thomas: 0%
+Number of overdue and incomplete tasks percentage: thomas: 0%
+The total number of tasks: 4
+The tasks assigned to each user: {'admin': 2, 'kernard': 1, 'thomas': 1}
+Percentage of completed tasks: {'admin': 1, 'kernard': 0, 'thomas': 0}
+Percentage of incomplete tasks: {'admin': 0, 'kernard': 0, 'thomas': 0}
+Percentage of incomplete and overdue tasks: {'admin': 0, 'kernard': 0, 'thomas': 0}
